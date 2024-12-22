@@ -39,5 +39,8 @@ A modern speech translation app built with Python. This application enables user
 - 🌐 Improve error handling for better user experience.
 - 📝 Add a feature to save translations locally.
 
+## 🖼 Screenshots
+  ![image](https://github.com/user-attachments/assets/2ba73dd4-f81c-4676-8094-80c501abd3a3)
+
 ## 🔒 License
  - This project is licensed under the MIT License. See the LICENSE file for details.
